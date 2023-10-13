@@ -1,2 +1,2 @@
 Jogo da memória educativo
-![Alt text](image.png)
+![Alt text](/img/image.png)
